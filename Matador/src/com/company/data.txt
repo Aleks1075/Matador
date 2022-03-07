@@ -1,0 +1,3 @@
+Tobias: 500000
+Jesper: 200000
+Tess: 30000
